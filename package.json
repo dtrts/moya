@@ -1,0 +1,12 @@
+{
+  "name": "moya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dtrts/moya.git",
+  "author": "Douglas Thomson <djt210@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
