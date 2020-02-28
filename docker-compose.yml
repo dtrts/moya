@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  moya:
+    container_name: moya
+    image: moya
+    build: .
+    env_file:
+      - .env
+    ports:
+      - "80:80"
